@@ -1,0 +1,6 @@
+Date,City,Temperature_C,Condition,Humidity_Percent
+2026-10-01,New York,22,Sunny,45
+2026-10-02,New York,19,Rainy,80
+2026-10-01,London,15,Cloudy,70
+2026-10-02,London,16,Showers,75
+2026-10-01,Tokyo,25,Sunny,50
